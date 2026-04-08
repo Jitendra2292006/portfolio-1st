@@ -1,0 +1,5 @@
+num1=float(input("enter first number= "))
+num2=float(input("enter second number= "))
+num3=float(input("enter third number= "))
+sum=(num2*num1*num3/100)
+print(sum)

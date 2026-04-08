@@ -1,0 +1,16 @@
+list=[2,1,3]
+# add  a element at the end
+list.append(4)
+print(list)
+list.sort()
+print("sort list",list)
+list.sort(reverse= True)
+print("reverrse= ",list)
+list.reverse()
+print(list)
+list.insert(1,5)
+print(list)
+list.remove(1)
+print(list)
+list.pop(2)
+print(list)
