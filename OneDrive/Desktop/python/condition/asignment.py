@@ -9,7 +9,7 @@ print(a>b)
 num=10
 num+=10
 print("num= ",num)
-a=str("jitu")
+a=str("jack")
 print(a)
 # type of conversion
 c,f=1,"3"
