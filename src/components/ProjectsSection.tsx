@@ -72,7 +72,7 @@ const PROJECTS_DATA: ProjectItem[] = [
       "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80",
     col2Image:
       "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
-    link: "https://curenncy-exchange-bihqwjl4z-jitendra2292006s-projects.vercel.app/",
+    link: "http://curenncy-exchange.vercel.app/",
   },
 ];
 
